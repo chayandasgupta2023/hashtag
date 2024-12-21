@@ -1,0 +1,244 @@
+Panthapath
+
+103.144.201.1:8191 (Microtik)
+
+172.16.16.10 (OLT)
+
+
+
+	Motejheel
+
+103.144.201.32:8191 (Microtik)
+
+172.16.16.34	(OLT)
+
+
+
+Bashundhara 
+
+d
+
+103.144.201.64:8191 (Microtik)
+
+172.16.16.67	(OLT)
+
+
+172.16.16.68	(OLT2)
+mahbub
+russias3003
+
+
+i 
+
+103.144.200.22:8191 (Microtik New)
+
+172.16.16.74	(OLT New)
+
+
+
+Shahjadpur 
+
+103.144.200.154:8191 (Microtik)
+103.144.201.128:8191
+
+172.16.16.130	(OLT)
+admin
+admin
+
+
+
+Mirpur 
+
+103.144.201.96:8191 (Microtik)
+
+172.16.16.98 (old)
+
+172.16.16.100 (new)
+
+
+
+Uttara
+
+103.144.201.160:8191 (Microtik)
+
+172.16.16.162	(OLT)
+
+
+
+Gazipur 
+
+103.144.201.218:8191 (Microtik)
+
+103.144.200.18  gulshan nat
+
+172.16.16.194 (OLT)
+
+
+
+
+Niketon
+
+103.144.200.166:8191 (Microtik)
+
+172.16.16.226	(OLT)
+
+
+
+Mohammadpur
+
+103.144.200.192:8191 (Mikrotik)
+
+172.16.16.218	(OLT)
+
+
+
+Gopalganj
+
+103.144.200.48:8191 (Mikrotik)
+
+172.16.16.234	(OLT)
+
+telnet
+russi@3003
+
+
+Tangail
+
+103.144.200.242:8191 (Mikrotik)
+
+172.16.16.242	(OLT)
+SSH
+noc
+russi@3003
+
+
+pallabi
+103.145.139.34:8191  (Mikrotik)
+
+172.16.16.210	(OLT)
+admin
+admin
+
+
+Joydebpur
+103.145.138.142
+172.16.16.250
+root
+admin
+
+
+
+#tag112022
+
+
+hashtag@#$2023
+
+
+172.16.16.131
+new
+172.16.16.68
+admin 
+admin
+
+
+Tangail OLT:       https://172.16.16.242/action/login.html
+
+Gopalganj OLT:     https://172.16.16.234:8742/action/login.html
+
+
+gaming lan cash dns/download
+118.179.111.222
+
+primary dns
+103.144.200.8
+
+secondary dns
+8.8.8.8
+
+
+
+show ont lirnmack 1 3
+
+new
+src ip: 103.144.200.0/23  &  103.145.138.0/23 
+old
+src-address:103.144.200.0/23, 103.144.201.0/24
+
+
+
+Use this template for SMS.
+
+This is to inform you that,your internet connection is down due to a fiber cut.
+Our team is working there. E.T.R: 2 Hours.24x7 Contact center :  09606555444
+
+
+
+Servers:Live TV:---
+
+http://172.19.178.178/tv/
+http://198.51.100.100/
+http://172.27.27.3/
+http://10.192.0.3/we/
+http://itcnbd.live/
+
+
+
+Movie or FTP Server:---
+osns.xyz
+osns.pw
+showtimebd.com
+172.16.50.4
+172.27.27.1
+binodonmela.net
+
+
+
+http://10.192.0.3/we/
+http://172.16.50.4/
+
+
+chayan@hashtag.com.bd
+Gulsh@n#2023$
+
+
+chayan@hashtag.com.bd
+Gulsh@n#2023$
+
+
+https://mail.hashtag.com.bd/admin/accounts/310/
+Gulsh@n#2023$
+
+chayan
+g00gle2m
+
+
+103.144.200.18 
+
+103.144.201.66 
+
+172.31.30.73
+
+
+amber cache dns
+118.179.223.222
+118.179.92.50
+
+
+
+
+https://mail.hashtag.com.bd/admin/accounts/310/
+
+
+chayan@hashtag.com.bd
+Gulsh@n#2023$
+
+
+
+Welcome to Modoboa
+https://mail.hashtag.com.bd
+
+
+
+103.26.244.27 (103.26.244.27.summitgw.net)
+
+99.83.136.104 (aee112400987c0bab.awsglobalaccelerator.com)
